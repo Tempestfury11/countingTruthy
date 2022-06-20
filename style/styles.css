@@ -1,0 +1,20 @@
+
+body{
+    background-color: navy;
+    padding-top: 100px;
+}
+
+.container{
+    padding-top: 30px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    width: 35rem;
+    height: 18rem;
+    background-color: white;
+}
+
+.heading {
+    text-decoration: underline;
+}
